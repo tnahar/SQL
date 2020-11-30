@@ -153,4 +153,4 @@ order by emp_no
 SELECT last_name, count(last_name) as Last_Name_Count
 from employees
 GROUP BY last_name
-ORDER BY Last_Name_Count desc 
+ORDER BY Last_Name_Count desc
