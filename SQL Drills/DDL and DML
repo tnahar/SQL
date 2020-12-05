@@ -1,0 +1,11 @@
+/*
+
+DDL and DML
+
+DDL: Data Definition Language is when u can change the structure of the database, such as create,
+alter and drop tables
+
+DML: Data Manipulation Language is to manipulate data such as insert, update, and delete statements in the table
+
+
+*/
